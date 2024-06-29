@@ -1,4 +1,4 @@
-#Artificial Intelligence Project
+# Artificial Intelligence Project
 
 One can easily download this repository and run this project . 
 
